@@ -10,3 +10,5 @@ php artisan serve ==> run the server
 
 4- in web browser
 127.0.0.1:8000
+
+5- to promote a visitor to an admin, change admin field in users table from 0 to 1
